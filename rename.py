@@ -1,5 +1,7 @@
 import os
 import re
+
+# Specifies the directory that the files needing to be renamed are located
 target_directory = r"C:\rename"
                         
 def sanitize_filenames(target_directory):
