@@ -2,7 +2,7 @@ import os
 import re
 
 # Specifies the directory that the files needing to be renamed are located
-target_directory = r"C:\rename"
+target_directory = r"K:\File_Repository\Lanvera Files\LOCStatements Letter\Extracted\"
                         
 def sanitize_filenames(target_directory):
     # Ensure the directory path exists
